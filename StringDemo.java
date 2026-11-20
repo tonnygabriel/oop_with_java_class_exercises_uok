@@ -1,6 +1,4 @@
-package josbert_new_;
-
-public class string_demo_4_ {
+public class StringDemo{
 
     public static void main(String args[]) {
         // Declaring and initializing a character array
